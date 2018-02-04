@@ -4,12 +4,14 @@ import './App.css';
 import Navbar from "./components/navbar";
 import ProfileImage from "./components/profileImage";
 import About from "./components/about";
+import Education from "./components/education";
 const App = () => (
 
     <div>
             <Navbar />
             <ProfileImage />
             <About />
+            <Education />
 
 
     </div>
