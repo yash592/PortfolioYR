@@ -1,21 +1,11 @@
 //
 
 import React from "react";
+import "./profileimage.css";
 
-const styles = {
-  div: {
-    // textAlign:center,
-    marginTop:150
-  },
-
-  img: {
-    width:140
-  }
-}
 
 const profileImage = () => (
-  <div style={styles.div}>
-  <h1>Hi!</h1>
+  <div className="yash">
     <img className="rounded-circle img-fluid" alt = "yash" src={"https://i.imgur.com/QqweSRw.jpg"} />
   </div>
 );
