@@ -80,7 +80,7 @@ body {
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
 	margin: 0 0 15px 25%;
-	background: #3594cb;
+	background: transparent;
 	color: #fff;
 	padding: 2em;
 	font-size: 1.2em;
@@ -91,7 +91,7 @@ body {
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
-	background: #6cbfee;
+	background: transparent;
 }
 
 .cbp_tmtimeline > li .cbp_tmlabel h2 {
