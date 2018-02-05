@@ -18,11 +18,13 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
 }
-.container {
-  margin-left: 200px;
+
+.education {
+  color: #EF5646;
+  text-align: center;
 }
 .main {
-	width: 90%;
+	/* width: 90%; */
 	max-width: 69em;
 	margin: 0 auto;
 	padding: 0 1.875em 3.125em 1.875em;
@@ -88,16 +90,23 @@ body {
 	line-height: 1.4;
 	position: relative;
 	border-radius: 5px;
+      border-color: #f2f2d8;
+    border-width: 1px;
+    border-style: solid;
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
 	background: transparent;
+  border-color: #f2f2d8;
+border-width: 1px;
+border-style: solid;
 }
 
 .cbp_tmtimeline > li .cbp_tmlabel h2 {
 	margin-top: 0px;
 	padding: 0 0 10px 0;
 	border-bottom: 1px solid rgba(255,255,255,0.4);
+  color: #EF5646;
 }
 
 /* The triangle */
@@ -133,7 +142,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	position: absolute;
 	color: #fff;
-	background: #46a4da;
+	background: #EF5646;
 	border-radius: 50%;
 	box-shadow: 0 0 0 8px #afdcf8;
 	text-align: center;

@@ -5,6 +5,7 @@
 .yash {
   text-align: center;
   margin-top: 150px;
+  z-index: 9999;
   }
 
   .rounded-circle{

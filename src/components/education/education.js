@@ -6,9 +6,10 @@ import "./education.css";
 const education = () => (
   <div class="container">
                 <header class="clearfix">
-                    <h1>Education and Work Experience</h1>
-
+                    <h1 class = "education">Education and Work Experience</h1>
                 </header>
+                <br />
+                <br />
                 <div class="main">
                     <ul class="cbp_tmtimeline">
                         <li>
