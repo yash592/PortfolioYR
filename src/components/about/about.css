@@ -6,7 +6,8 @@
   text-align: center;
   margin: 0 auto;
   margin-top: 28px;
-  color:rgb(252,183,4)
+  color:rgb(252,183,4);
+  z-index: 9999;
 }
 
 /* "width:80%;text-align:center;margin:0 auto;margin-top:28px;" */

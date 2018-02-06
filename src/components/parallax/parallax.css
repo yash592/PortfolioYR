@@ -1,1 +1,5 @@
 /*  */
+
+.parallel {
+  z-index: -1;
+}

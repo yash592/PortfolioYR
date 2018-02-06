@@ -8,16 +8,20 @@ import Education from "./components/education";
 
 import MyComponent from "./components/parallax";
 
-const App = () => (
+class App extends Component {
+
+  render() {
+
+    return (
 
     <div>
             <Navbar />
-            <MyComponent />
             <ProfileImage />
             <About />
             <Education />
-            <MyComponent/>
 
     </div>
-);
+  )
+};
+};
 export default App;

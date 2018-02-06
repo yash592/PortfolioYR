@@ -2,7 +2,7 @@ import React from 'react';
 import { Parallax, Background } from 'react-parallax';
 
 const MyComponent = () => (
-  <div>
+  <div className="parallel">
     <Parallax
       blur={{ min: -15, max: 15 }}
       bgImage={require('./para.JPG')}
