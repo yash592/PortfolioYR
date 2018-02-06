@@ -5,6 +5,7 @@ import Navbar from "./components/navbar";
 import ProfileImage from "./components/profileImage";
 import About from "./components/about";
 import Education from "./components/education";
+import Skills from "./components/skills";
 
 import MyComponent from "./components/parallax";
 
@@ -19,6 +20,7 @@ class App extends Component {
             <ProfileImage />
             <About />
             <Education />
+            <Skills />
 
     </div>
   )
