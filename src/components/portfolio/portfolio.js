@@ -6,7 +6,7 @@ import "./portfolio.css";
 const Portfolio = () => (
 
 <div class="projects-horizontal">
-        <div class="container">
+        <div class="skillcontainer">
             <div class="intro">
                 <h2 class="text-center">Portfolio</h2>
                 <p class="text-center">Full stack and front end applications</p>

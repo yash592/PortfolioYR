@@ -19,6 +19,10 @@ body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
+.container {
+	height:3200px;
+}
+
 .education {
   color: #EF5646;
   text-align: center;
