@@ -2,7 +2,11 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Navbar from "./components/navbar";
+<<<<<<< Updated upstream
 import ProfileImage from "./components/profileImage";
+=======
+import ProfileImage from "./components/profileimage";
+>>>>>>> Stashed changes
 import About from "./components/about";
 import Education from "./components/education";
 import Skills from "./components/skills";

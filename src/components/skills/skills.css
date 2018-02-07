@@ -2,13 +2,21 @@
 
 .align-items-center {
 
+<<<<<<< Updated upstream
    height:700px;
+=======
+   height:915px;
+>>>>>>> Stashed changes
    width:80%;
    margin:0 auto;
 
 }
 
+<<<<<<< Updated upstream
 h1 {
+=======
+h1, p {
+>>>>>>> Stashed changes
   text-align:center;
   color:white;
 

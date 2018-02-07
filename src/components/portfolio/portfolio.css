@@ -4,10 +4,21 @@
   color:#EF5646;
 }
 
+<<<<<<< Updated upstream
 h2, p {
   color:white;
 }
 
+=======
+ p {
+  color:white;
+}
+
+h2 {
+  color:##EF5646
+}
+
+>>>>>>> Stashed changes
 .projects-clean .projects,.projects-horizontal .projects{padding-bottom:40px}
 
 .projects-clean{color:#313437;}
@@ -26,11 +37,19 @@ h2, p {
 
 .projects-clean .item .description{font-size:15px;margin-top:15px;margin-bottom:0}
 
+<<<<<<< Updated upstream
 .projects-horizontal{color:#313437}
 
 .projects-horizontal p{color:#7d8285}
 
 .projects-horizontal h2{font-weight:700;margin-bottom:40px;padding-top:40px;color:#EF5646}@media (max-width:767px){.projects-horizontal h2{margin-bottom:25px;padding-top:25px;font-size:24px}}
+=======
+.projects-horizontal{color:#313437; width: 80%; text-align: center; margin: 0 auto}
+
+.projects-horizontal {color:#7d8285}
+
+.projects-horizontal {font-weight:700;margin-bottom:40px;padding-top:40px;color:#EF5646}@media (max-width:767px){.projects-horizontal h2{margin-bottom:25px;padding-top:25px;font-size:24px}}
+>>>>>>> Stashed changes
 
 .projects-horizontal .intro{font-size:16px;max-width:500px;margin:0 auto 10px}
 

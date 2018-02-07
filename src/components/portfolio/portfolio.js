@@ -6,7 +6,11 @@ import "./portfolio.css";
 const Portfolio = () => (
 
 <div class="projects-horizontal">
+<<<<<<< Updated upstream
         <div class="container">
+=======
+        <div class="skillcontainer">
+>>>>>>> Stashed changes
             <div class="intro">
                 <h2 class="text-center">Portfolio</h2>
                 <p class="text-center">Full stack and front end applications</p>

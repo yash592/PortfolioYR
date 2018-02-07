@@ -19,6 +19,13 @@ body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
+<<<<<<< Updated upstream
+=======
+.container {
+	height:3200px;
+}
+
+>>>>>>> Stashed changes
 .education {
   color: #EF5646;
   text-align: center;
