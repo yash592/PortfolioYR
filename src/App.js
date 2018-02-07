@@ -6,6 +6,7 @@ import ProfileImage from "./components/profileImage";
 import About from "./components/about";
 import Education from "./components/education";
 import Skills from "./components/skills";
+import Portfolio from "./components/portfolio";
 
 import MyComponent from "./components/parallax";
 
@@ -21,6 +22,7 @@ class App extends Component {
             <About />
             <Education />
             <Skills />
+            <Portfolio />
 
     </div>
   )
